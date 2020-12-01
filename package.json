@@ -1,0 +1,12 @@
+{
+  "name": "hawkeye-targets",
+  "description": "This projects keeps a list of target we check using hawkeye",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "hawkeye"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
